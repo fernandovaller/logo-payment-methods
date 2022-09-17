@@ -1,0 +1,19 @@
+{
+    "name": "fernandovaller/payment-methods-logo",
+    "description": "Logo dos principais métodos de pagamento no Brasil",
+    "autoload": {
+        "psr-4": {
+            "FVCode\\PaymentMethodsLogo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Valler",
+            "email": "fernandovaller@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "license": "MIT"
+}
