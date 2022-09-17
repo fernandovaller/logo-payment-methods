@@ -1,5 +1,3 @@
-[![Latest Stable Version](http://poser.pugx.org/fernandovaller/logo-payment-methods/v)](https://packagist.org/packages/fernandovaller/logo-payment-methods) [![Total Downloads](http://poser.pugx.org/fernandovaller/logo-payment-methods/downloads)](https://packagist.org/packages/fernandovaller/logo-payment-methods)  [![License](http://poser.pugx.org/fernandovaller/logo-payment-methods/license)](https://packagist.org/packages/fernandovaller/logo-payment-methods)
-
 # Logo Métodos de Pagamento
 
 Logo dos principais métodos de pagamento no Brasil em formato `base64`
