@@ -14,16 +14,18 @@ $ composer require fernandovaller/payment-methods-logo
 ```php
 <?php
 
-use FVCode\PaymentMethodsLogo\PaymentMethodsLogo;
+use FVCode\PaymentMethodsLogo\Logo;
 
 require __DIR__ . '/vendor/autoload.php';
 
-echo PaymentMethodsLogo::get('visa')
+echo Logo::get('visa');
 
 /**
  * Out (string):
  * data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAA3CAIAAAD ....
  */
+
+echo Logo::getImage('visa', 32);
 ```
 
 Licença
